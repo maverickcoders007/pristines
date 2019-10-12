@@ -1,5 +1,6 @@
 # PRISTINES
-For Microsoft Codefundo++ 2019
+For Microsoft Codefundo++ 2019 
+This is just an abstract.
   
   A secure electronic voting design is a must for a good democratic system. Making it computerised and cloud-based using blockchain goes a long way in reducing the expenses and also saving the trouble in going to poll stations.
   
