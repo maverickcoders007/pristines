@@ -12,3 +12,4 @@ For Microsoft Codefundo++ 2019
   This login-based system addresses the difficulties faced by the voters, who are not present in their constituency on the election day. The idea can be expanded, but the feasibility in individual system has to be taken into consideration. This makes the inclusion of new voters into the list easy as login can created easily if the unique identification offers the proof of age and residence along with the biometric security. Similarly, the change of constituency is easier if the proof of change of address is available.
   
   The results can be declared immediately at the close of the voting, since everything is computerised. Also, the blockchain technology makes the voting process more transparent (i.e. we can get the list of voters who have/haven’t cast their votes). This will help us to create more awareness about the importance of voting.
+   THANK YOU VERY MUCH FOR THE OPPORTUNIY
